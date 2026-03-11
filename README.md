@@ -15,6 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=dark)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThanhThan123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

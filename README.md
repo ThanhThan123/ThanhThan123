@@ -17,12 +17,28 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=dark)
 
-### Featured Projects
-![](https://github-contributor-stats.vercel.app/api?username=ThanhThan123&limit=5&theme=dark&combine_all_yearly_contributions=true)
-- [einvoice-microservices-platform](https://github.com/ThanhThan123/einvoice-microservices-platform)  
-  NestJS microservices platform with Nx monorepo, Keycloak authentication, Kafka, Redis, Docker, and observability.
+## Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/ThanhThan123/einvoice-microservices-platform">einvoice-microservices-platform</a></h3>
+      <p>
+        NestJS microservices platform built with Nx monorepo, Keycloak authentication,
+        Kafka, Redis, Docker, and observability.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-Microservices-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nx-Monorepo-143055?style=flat-square" />
+        <img src="https://img.shields.io/badge/Keycloak-Auth-4D4D4D?style=flat-square" />
+        <img src="https://img.shields.io/badge/Kafka-Event--Driven-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhThan123&icon=0&color=0)](https://visitcount.itsvg.in)

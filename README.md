@@ -40,6 +40,26 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/ThanhThan123/Course-Python-AI-Basicc">Course-Python-AI-Basicc</a></h3>
+      <p>
+        A comprehensive Python & AI course repository covering topics such as Python basics, data structures, 
+        object-oriented programming (OOP), file handling, exception handling, and AI-related Python applications.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Object--Oriented-Programming-00BFFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Applications-FF6F00?style=flat-square&logo=ai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Exception--Handling-EF4135?style=flat-square" />
+        <img src="https://img.shields.io/badge/File--Handling-0A74DA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data--Structures-4CAF50?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhThan123&icon=0&color=0)](https://visitcount.itsvg.in)
 

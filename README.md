@@ -92,6 +92,28 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/ThanhThan123/Deep-Learning-For-Computer-Vision">Deep-Learning-For-Computer-Vision</a></h3>
+      <p>
+        A deep learning project focused on computer vision tasks, including training models on datasets like **CIFAR-10** and **Quick-Draw**. The project leverages popular libraries and tools for image classification, object detection, and training visualization.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/CVAT-00BFFF?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/CIFAR--10-FF6F00?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Quick--Draw-4CAF50?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/TQDM-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3B6B?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyPI-3776AB?style=flat-square&logo=pypi&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhThan123&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -80,11 +80,11 @@
         It covers topics like data preprocessing, model training, hyperparameter tuning, and model evaluation.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Machine--Learning-Algorithms-FF6F00?style=flat-square&logo=ai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data--Preprocessing-4CAF50?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine--Learning-Algorithms-FF6F00?style=flat-square" />
         <img src="https://img.shields.io/badge/Model--Evaluation-00BFFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Time--Series-4CAF50?style=flat-square" />
-        <img src="https://img.shields.io/badge/Recommendation--Systems-FF6F00?style=flat-square" />
         <img src="https://img.shields.io/badge/Hyperparameter--Tuning-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>

@@ -80,16 +80,20 @@
         It covers topics like data preprocessing, model training, hyperparameter tuning, and model evaluation.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine--Learning-Algorithms-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Model--Evaluation-00BFFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Hyperparameter--Tuning-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/GloVe-4CAF50?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyPI-3776AB?style=flat-square&logo=pypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lazy--Predict-FF6F00?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SpaCy-00BFFF?style=flat-square&logo=spaCy&logoColor=white" />
+        <img src="https://img.shields.io/badge/TextBlob-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Regexr-FF6F00?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
+--- 
+[![](https://visitcount.itsvg.in/api?id=ThanhThan123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhThan123&icon=0&color=0)](https://visitcount.itsvg.in)
